@@ -7,3 +7,6 @@
 [submodule "ngtodolist"]
 	path = ngtodolist
 	url = https://github.com/NajlaBH/ngtodolist
+[submodule "ngagenda"]
+	path = ngagenda
+	url = https://github.com/NajlaBH/ngagenda
