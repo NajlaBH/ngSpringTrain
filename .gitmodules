@@ -10,3 +10,6 @@
 [submodule "psteper"]
 	path = psteper
 	url = https://github.com/NajlaBH/psteper
+[submodule "stepeer"]
+	path = stepeer
+	url = https://github.com/NajlaBH/stepeer
