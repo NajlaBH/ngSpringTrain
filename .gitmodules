@@ -1,9 +1,6 @@
 [submodule "chatroom"]
 	path = chatroom
 	url = https://github.com/NajlaBH/chatroom
-[submodule "AngularSpringTechnologiaBETA"]
-	path = AngularSpringTechnologiaBETA
-	url = https://github.com/NajlaBH/AngularSpringTechnologiaBETA
 [submodule "ngtodolist"]
 	path = ngtodolist
 	url = https://github.com/NajlaBH/ngtodolist
